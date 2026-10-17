@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/transaction-progress-feedback",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/transaction-progress-feedback": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/transaction-progress-feedback",
+    "origin"
+  ]
+}
